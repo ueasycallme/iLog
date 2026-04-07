@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="YN logo">
+  <defs>
+    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#cf5b2e" />
+      <stop offset="100%" stop-color="#eb9b46" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#211f1d" />
+  <path
+    d="M18 18h8.4l5.8 10 5.8-10H46l-10.2 16.7V46h-7.6V34.7L18 18Zm8.2 0h8L32 21.9 26.2 18Zm18.8 0h7v28h-7z"
+    fill="url(#g)"
+  />
+</svg>
